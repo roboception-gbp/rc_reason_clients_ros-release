@@ -1,0 +1,12 @@
+Source: ros-noetic-rc-reason-msgs
+Section: misc
+Priority: optional
+Maintainer: Felix Ruess <felix.ruess@roboception.de>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin, ros-noetic-geometry-msgs, ros-noetic-message-generation, ros-noetic-rc-common-msgs, ros-noetic-shape-msgs, ros-noetic-std-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-noetic-rc-reason-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-geometry-msgs, ros-noetic-message-runtime, ros-noetic-rc-common-msgs, ros-noetic-shape-msgs, ros-noetic-std-msgs
+Description: Msg and srv definitions for rc_reason_clients
