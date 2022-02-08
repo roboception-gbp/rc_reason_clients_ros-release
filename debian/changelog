@@ -1,0 +1,13 @@
+ros-melodic-rc-reason-msgs (0.2.1-2bionic) bionic; urgency=high
+
+  * add missing build dependencies to package.xml
+
+ -- Felix Ruess <felix.ruess@roboception.de>  Mon, 14 Jun 2021 22:00:00 -0000
+
+ros-melodic-rc-reason-msgs (0.2.0-2bionic) bionic; urgency=high
+
+  * initial release
+
+ -- Felix Ruess <felix.ruess@roboception.de>  Thu, 10 Jun 2021 22:00:00 -0000
+
+
